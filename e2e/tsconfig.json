@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "types": ["node", "webdriverio/async", "@wdio/mocha-framework", "expect-webdriverio"],
+    "target": "ES5",
+    "strict": true,
+    "baseUrl": "./",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictPropertyInitialization": true,
+    "strictNullChecks": true,
+    "resolveJsonModule": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "plugins": ["wdio"],
+    "extends": [
+        "plugin:wdio/recommended"
+    ],
+    "rules": {
+      "wdio/no-pause": "off"
+    }
+}
